@@ -1,3 +1,1 @@
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\index.html
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\send.html
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\inbox.html
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\html\send.html

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2w/coEsu6v5HwreCSDoJobqmqDAJER/E2+rX+y4O1HY=",
+  "Hash": "pe7paZtx4+IuIWL1pTDN/HsBo6JjocGxzWQ7dDzDmt8=",
   "Source": "GmailAppApi",
   "BasePath": "_content/GmailAppApi",
   "Mode": "Default",
@@ -17,33 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\0rl855n5rn-xfw82g1pg6.gz",
+      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-i96wvm1r9w.gz",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/GmailAppApi",
-      "RelativePath": "html/send#[.{fingerprint=xfw82g1pg6}]?.html.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "p8dxrzg2g7",
-      "Integrity": "SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html"
-    },
-    {
-      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-r6xtivhavs.gz",
-      "SourceId": "GmailAppApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/GmailAppApi",
-      "RelativePath": "html/inbox#[.{fingerprint=r6xtivhavs}]?.html.gz",
+      "RelativePath": "html/inbox#[.{fingerprint=i96wvm1r9w}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +31,8 @@
       "RelatedAsset": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ag93x79kf5",
-      "Integrity": "ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk=",
+      "Fingerprint": "98djl6ci3u",
+      "Integrity": "R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html"
@@ -101,6 +80,27 @@
       "OriginalItemSpec": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\y66f5whqyy-xfw82g1pg6.gz",
+      "SourceId": "GmailAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/GmailAppApi",
+      "RelativePath": "html/compose#[.{fingerprint=xfw82g1pg6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "p8dxrzg2g7",
+      "Integrity": "SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\zpd7q79tm4-f2clm3gwv6.gz",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
@@ -143,6 +143,27 @@
       "OriginalItemSpec": "wwwroot\\css\\styleLogin.css"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "SourceId": "GmailAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "BasePath": "_content/GmailAppApi",
+      "RelativePath": "html/compose#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xfw82g1pg6",
+      "Integrity": "PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\html\\compose.html"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
@@ -157,8 +178,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r6xtivhavs",
-      "Integrity": "vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44=",
+      "Fingerprint": "i96wvm1r9w",
+      "Integrity": "tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\inbox.html"
@@ -183,27 +204,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\index.html"
-    },
-    {
-      "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-      "SourceId": "GmailAppApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
-      "BasePath": "_content/GmailAppApi",
-      "RelativePath": "html/send#[.{fingerprint}]?.html",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "xfw82g1pg6",
-      "Integrity": "PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\html\\send.html"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",
@@ -527,13 +527,13 @@
       ]
     },
     {
-      "Route": "html/inbox.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-r6xtivhavs.gz",
+      "Route": "html/compose.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\y66f5whqyy-xfw82g1pg6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001152073733"
+          "Quality": "0.001175088132"
         }
       ],
       "ResponseHeaders": [
@@ -543,15 +543,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "867"
+          "Value": "850"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk=\""
+          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -571,13 +571,311 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44=\""
+          "Value": "W/\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44="
+          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
+        }
+      ]
+    },
+    {
+      "Route": "html/compose.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
+        }
+      ]
+    },
+    {
+      "Route": "html/compose.html.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\y66f5whqyy-xfw82g1pg6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o="
+        }
+      ]
+    },
+    {
+      "Route": "html/compose.xfw82g1pg6.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\y66f5whqyy-xfw82g1pg6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001175088132"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfw82g1pg6"
+        },
+        {
+          "Name": "label",
+          "Value": "html/compose.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
+        }
+      ]
+    },
+    {
+      "Route": "html/compose.xfw82g1pg6.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1761"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfw82g1pg6"
+        },
+        {
+          "Name": "label",
+          "Value": "html/compose.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
+        }
+      ]
+    },
+    {
+      "Route": "html/compose.xfw82g1pg6.html.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\y66f5whqyy-xfw82g1pg6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 01:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xfw82g1pg6"
+        },
+        {
+          "Name": "label",
+          "Value": "html/compose.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o="
+        }
+      ]
+    },
+    {
+      "Route": "html/inbox.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-i96wvm1r9w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405679513"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2464"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k="
         }
       ]
     },
@@ -592,7 +890,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3326"
+          "Value": "23845"
         },
         {
           "Name": "Content-Type",
@@ -600,11 +898,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44=\""
+          "Value": "\"tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -614,13 +912,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44="
+          "Value": "sha256-tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k="
         }
       ]
     },
     {
       "Route": "html/inbox.html.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-r6xtivhavs.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-i96wvm1r9w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -629,7 +927,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "867"
+          "Value": "2464"
         },
         {
           "Name": "Content-Type",
@@ -637,11 +935,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk=\""
+          "Value": "\"R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -659,18 +957,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk="
+          "Value": "sha256-R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24="
         }
       ]
     },
     {
-      "Route": "html/inbox.r6xtivhavs.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-r6xtivhavs.gz",
+      "Route": "html/inbox.i96wvm1r9w.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-i96wvm1r9w.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001152073733"
+          "Quality": "0.000405679513"
         }
       ],
       "ResponseHeaders": [
@@ -680,15 +978,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "867"
+          "Value": "2464"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk=\""
+          "Value": "\"R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -708,13 +1006,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44=\""
+          "Value": "W/\"tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r6xtivhavs"
+          "Value": "i96wvm1r9w"
         },
         {
           "Name": "label",
@@ -722,12 +1020,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44="
+          "Value": "sha256-tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k="
         }
       ]
     },
     {
-      "Route": "html/inbox.r6xtivhavs.html",
+      "Route": "html/inbox.i96wvm1r9w.html",
       "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -737,7 +1035,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3326"
+          "Value": "23845"
         },
         {
           "Name": "Content-Type",
@@ -745,11 +1043,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44=\""
+          "Value": "\"tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -759,7 +1057,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r6xtivhavs"
+          "Value": "i96wvm1r9w"
         },
         {
           "Name": "label",
@@ -767,13 +1065,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-vfTlexaZcqXTvVZxp8Wb7xqWvXK77MrkURdbivUkM44="
+          "Value": "sha256-tk6k9Bd1caNHOg4pwDw1NJI/9L72NsdlmkhIBs5L81k="
         }
       ]
     },
     {
-      "Route": "html/inbox.r6xtivhavs.html.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-r6xtivhavs.gz",
+      "Route": "html/inbox.i96wvm1r9w.html.gz",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\6al2b04mme-i96wvm1r9w.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -782,7 +1080,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "867"
+          "Value": "2464"
         },
         {
           "Name": "Content-Type",
@@ -790,11 +1088,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk=\""
+          "Value": "\"R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:24:24 GMT"
+          "Value": "Sat, 17 May 2025 04:39:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -812,7 +1110,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "r6xtivhavs"
+          "Value": "i96wvm1r9w"
         },
         {
           "Name": "label",
@@ -820,7 +1118,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZuCtfqMyvzWOW1J7Zntu8ne1xBkaPbvhPozbiVdWkYk="
+          "Value": "sha256-R+kHcEt1Qfe7u8FwaSHYzYxkbSPIF7cBXsDyeKp5C24="
         }
       ]
     },
@@ -849,7 +1147,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -910,7 +1208,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -955,7 +1253,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1010,7 +1308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1063,7 +1361,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1100,7 +1398,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 02:34:33 GMT"
+          "Value": "Sat, 17 May 2025 03:12:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1119,304 +1417,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-W6w+uCcs6Qb2kSi/MsnXkAbhTYt8FBFLoMZx1iLlwQ0="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\0rl855n5rn-xfw82g1pg6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001175088132"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "850"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.html.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\0rl855n5rn-xfw82g1pg6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.xfw82g1pg6.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\0rl855n5rn-xfw82g1pg6.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001175088132"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "850"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xfw82g1pg6"
-        },
-        {
-          "Name": "label",
-          "Value": "html/send.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.xfw82g1pg6.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1761"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xfw82g1pg6"
-        },
-        {
-          "Name": "label",
-          "Value": "html/send.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-PSifm86QjV9k3uGxaL6BKN75ogWlCILNseyJKoq9/Ks="
-        }
-      ]
-    },
-    {
-      "Route": "html/send.xfw82g1pg6.html.gz",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\Debug\\net9.0\\compressed\\0rl855n5rn-xfw82g1pg6.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "850"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 17 May 2025 01:43:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "xfw82g1pg6"
-        },
-        {
-          "Name": "label",
-          "Value": "html/send.html.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-SaiZES07tvlmMcpCrDdmwIH5sXeMAHtMcSEvjEB5R6o="
         }
       ]
     },

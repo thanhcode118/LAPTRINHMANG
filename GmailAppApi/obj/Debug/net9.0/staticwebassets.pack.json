@@ -5,16 +5,16 @@
       "PackagePath": "staticwebassets\\css\\styleLogin.css"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "PackagePath": "staticwebassets\\html\\compose.html"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "PackagePath": "staticwebassets\\html\\inbox.html"
     },
     {
       "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\index.html",
       "PackagePath": "staticwebassets\\html\\index.html"
-    },
-    {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-      "PackagePath": "staticwebassets\\html\\send.html"
     },
     {
       "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",

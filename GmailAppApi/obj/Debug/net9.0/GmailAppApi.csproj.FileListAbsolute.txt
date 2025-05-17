@@ -38,7 +38,7 @@ C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debu
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\bin\Debug\net9.0\GmailAppApi.staticwebassets.runtime.json
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\lkoom89k1h-7u3o4l3x73.gz
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\0rl855n5rn-xfw82g1pg6.gz
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\vnxxa86gta-200rnz2rmd.gz
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\6al2b04mme-r6xtivhavs.gz
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\zpd7q79tm4-f2clm3gwv6.gz
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\y66f5whqyy-xfw82g1pg6.gz
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\obj\Debug\net9.0\compressed\6al2b04mme-i96wvm1r9w.gz

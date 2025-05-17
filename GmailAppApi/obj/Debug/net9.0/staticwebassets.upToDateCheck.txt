@@ -1,10 +1,10 @@
-C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\html\send.html
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\html\inbox.html
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\css\styleLogin.css
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\js\scriptLogin.js
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\html\compose.html
 C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANGMAIN\LAPTRINHMANG\GmailAppApi\wwwroot\html\index.html
 wwwroot\css\styleLogin.css
+wwwroot\html\compose.html
 wwwroot\html\inbox.html
 wwwroot\html\index.html
-wwwroot\html\send.html
 wwwroot\js\scriptLogin.js

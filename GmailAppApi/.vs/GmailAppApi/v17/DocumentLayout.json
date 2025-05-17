@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\html\\send.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\send.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\css\\stylelogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\users\\lenovo\\downloads\\git\\laptrinhmangmain\\laptrinhmang\\gmailappapi\\wwwroot\\js\\scriptlogin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "wwwroot\\js\\scriptLogin.js",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAADEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-17T02:22:13.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T02:22:13.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "styleLogin.css",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\styleLogin.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\styleLogin.css",
@@ -96,12 +95,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T02:03:37.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T02:03:37.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -109,17 +107,16 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T02:03:26.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T02:03:26.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "send.html",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\send.html",
-              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\send.html",
-              "RelativeToolTip": "wwwroot\\html\\send.html",
+              "DocumentIndex": 1,
+              "Title": "compose.html",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\compose.html",
+              "ToolTip": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+              "RelativeToolTip": "wwwroot\\html\\compose.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-17T02:03:23.839Z",
@@ -127,13 +124,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "inbox.html",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\inbox.html",
               "ToolTip": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
               "RelativeToolTip": "wwwroot\\html\\inbox.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABWAAAAAAAAAA==",
+              "ViewState": "AgIAANMAAAAAAAAAAAAnwOYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-05-17T02:03:00.643Z",
               "EditorCaption": ""
@@ -148,8 +145,7 @@
               "RelativeToolTip": "GmailAppApi.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-05-17T01:48:46.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:48:46.73Z"
             },
             {
               "$type": "Document",
@@ -161,8 +157,7 @@
               "RelativeToolTip": "Models\\SendEmailRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:48:34.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:48:34.931Z"
             },
             {
               "$type": "Document",
@@ -174,8 +169,7 @@
               "RelativeToolTip": "Models\\EmailRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:48:33.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:48:33.011Z"
             },
             {
               "$type": "Document",
@@ -187,12 +181,11 @@
               "RelativeToolTip": "Controller\\EmailController.cs",
               "ViewState": "AgIAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:48:24.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:48:24.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\index.html",
@@ -205,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -213,8 +206,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:47:52.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:47:52.925Z"
             }
           ]
         }
