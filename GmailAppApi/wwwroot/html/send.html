@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Gửi Email Gmail</title>
+</head>
+<body>
+<h2>Gửi Email Gmail</h2>
+<button id="backBtn">Quay lại hộp thư</button>
+<form id="sendForm">
+  <label>Người nhận: <input type="email" id="toEmail" required /></label><br/><br/>
+  <label>Tiêu đề: <input type="text" id="subject" required /></label><br/><br/>
+  <label>Nội dung:<br/><textarea id="body" rows="6" cols="50" required></textarea></label><br/><br/>
+  <button type="submit">Gửi</button>
+</form>
+<script>
+const email = sessionStorage.getItem('email');
+const appPassword = sessionStorage.getItem('appPassword');
+if(!email || !appPassword){
+  alert('Bạn chưa đăng nhập!');
+  window.location.href = 'index.html';
+}
+
+document.getElementById('sendForm').addEventListener('submit', function(e){
+  e.preventDefault();
+  const toEmail = document.getElementById('toEmail').value.trim();
+  const subject = document.getElementById('subject').value.trim();
+  const body = document.getElementById('body').value.trim();
+
+  fetch('/api/email/send', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({
+      fromEmail: email,
+      appPassword,
+      toEmail,
+      subject,
+      body
+    })
+  })
+  .then(res => {
+    if(res.ok){
+      alert('Gửi email thành công!');
+      window.location.href = 'inbox.html';
+    } else {
+      alert('Gửi email thất bại.');
+    }
+  })
+  .catch(() => alert('Lỗi gửi email.'));
+});
+
+document.getElementById('backBtn').onclick = () => {
+  window.location.href = 'inbox.html';
+};
+</script>
+</body>
+</html>

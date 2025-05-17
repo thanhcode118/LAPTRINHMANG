@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8" />
+    <title>Animation Login Page</title>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css" />
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" />
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <!-- ... phần HTML bạn có ... -->
+    <!-- Thư viện lodash phải load trước script dùng nó -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.5/lodash.min.js"></script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let emailInput = document.querySelector(".username");
+            let passwordInput = document.querySelector(".password");
+            let showPasswordButton = document.querySelector(".password-button");
+            let face = document.querySelector(".face");
+
+            passwordInput.addEventListener("focus", () => {
+                document.querySelectorAll(".hand").forEach(hand => hand.classList.add("hide"));
+                document.querySelector(".tongue").classList.remove("breath");
+            });
+
+            passwordInput.addEventListener("blur", () => {
+                document.querySelectorAll(".hand").forEach(hand => {
+                    hand.classList.remove("hide");
+                    hand.classList.remove("peek");
+                });
+                document.querySelector(".tongue").classList.add("breath");
+            });
+
+            emailInput.addEventListener("focus", () => {
+                let length = Math.min(emailInput.value.length - 16, 19);
+                document.querySelectorAll(".hand").forEach(hand => {
+                    hand.classList.remove("hide");
+                    hand.classList.remove("peek");
+                });
+                face.style.setProperty("--rotate-head", `${-length}deg`);
+            });
+
+            emailInput.addEventListener("blur", () => {
+                face.style.setProperty("--rotate-head", "0deg");
+            });
+
+            emailInput.addEventListener("input", _.throttle(event => {
+                let length = Math.min(event.target.value.length - 16, 19);
+                face.style.setProperty("--rotate-head", `${-length}deg`);
+            }, 100));
+
+            showPasswordButton.addEventListener("click", (event) => {
+                event.preventDefault();
+                if (passwordInput.type === "text") {
+                    passwordInput.type = "password";
+                    document.querySelectorAll(".hand").forEach(hand => {
+                        hand.classList.remove("peek");
+                        hand.classList.add("hide");
+                    });
+                    showPasswordButton.textContent = "show";
+                } else {
+                    passwordInput.type = "text";
+                    document.querySelectorAll(".hand").forEach(hand => {
+                        hand.classList.remove("hide");
+                        hand.classList.add("peek");
+                    });
+                    showPasswordButton.textContent = "hide";
+                }
+            });
+        });
+    </script>
+</body>
+</html>
