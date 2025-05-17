@@ -4986,23 +4986,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nguye\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\hongu\\.nuget\\packages\\": {},
+    "C:\\VisualStudio\\Tools\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LậptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
+      "projectUniqueName": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
       "projectName": "GmailAppApi",
-      "projectPath": "D:\\LậptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
-      "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "D:\\LậptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\obj\\",
+      "projectPath": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
+      "packagesPath": "C:\\Users\\hongu\\.nuget\\packages\\",
+      "outputPath": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\VisualStudio\\Tools\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hongu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5029,8 +5029,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.300"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -5078,7 +5077,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

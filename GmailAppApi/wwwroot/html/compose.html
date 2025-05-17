@@ -1,58 +1,152 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Gửi Email Gmail</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Gửi Email Gmail</title>
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        body {
+            margin-top: 20px;
+        }
+
+        .email-app {
+            display: flex;
+            flex-direction: row;
+            background: #fff;
+            border: 1px solid #e1e6ef;
+        }
+
+            .email-app nav {
+                flex: 0 0 200px;
+                padding: 1rem;
+                border-right: 1px solid #e1e6ef;
+            }
+
+                .email-app nav .btn-block {
+                    margin-bottom: 15px;
+                }
+
+                .email-app nav .nav {
+                    flex-direction: column;
+                }
+
+                    .email-app nav .nav .nav-item {
+                        position: relative;
+                    }
+
+                    .email-app nav .nav .nav-link {
+                        color: #151b1e;
+                        border-bottom: 1px solid #e1e6ef;
+                    }
+
+                        .email-app nav .nav .nav-link i {
+                            width: 20px;
+                            margin-right: 10px;
+                            font-size: 14px;
+                            text-align: center;
+                        }
+
+            .email-app main {
+                flex: 1;
+                padding: 1rem;
+            }
+    </style>
 </head>
 <body>
-<h2>Gửi Email Gmail</h2>
-<button id="backBtn">Quay lại hộp thư</button>
-<form id="sendForm">
-  <label>Người nhận: <input type="email" id="toEmail" required /></label><br/><br/>
-  <label>Tiêu đề: <input type="text" id="subject" required /></label><br/><br/>
-  <label>Nội dung:<br/><textarea id="body" rows="6" cols="50" required></textarea></label><br/><br/>
-  <button type="submit">Gửi</button>
-</form>
-<script>
-const email = sessionStorage.getItem('email');
-const appPassword = sessionStorage.getItem('appPassword');
-if(!email || !appPassword){
-  alert('Bạn chưa đăng nhập!');
-  window.location.href = 'index.html';
-}
+    <div class="container bootdey">
+        <div class="email-app">
+            <nav>
+                <a href="#" id="backBtn" class="btn btn-danger btn-block">Quay lại hộp thư</a>
+                <ul class="nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-inbox"></i> Hộp thư đến</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-star"></i> Đã gắn sao</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-rocket"></i> Đã gửi</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-trash-o"></i> Thùng rác</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#"><i class="fa fa-bookmark"></i> Quan trọng</a>
+                    </li>
+                </ul>
+            </nav>
+            <main>
+                <p class="text-center">Gửi Email</p>
+                <form id="sendForm">
+                    <div class="form-row mb-3">
+                        <label for="toEmail" class="col-2 col-sm-1 col-form-label">To:</label>
+                        <div class="col-10 col-sm-11">
+                            <input type="email" class="form-control" id="toEmail" placeholder="Nhập email người nhận" required>
+                        </div>
+                    </div>
+                    <div class="form-row mb-3">
+                        <label for="subject" class="col-2 col-sm-1 col-form-label">Chủ đề:</label>
+                        <div class="col-10 col-sm-11">
+                            <input type="text" class="form-control" id="subject" placeholder="Nhập tiêu đề" required>
+                        </div>
+                    </div>
+                    <div class="form-row mb-3">
+                        <label for="body" class="col-2 col-sm-1 col-form-label">Nội dung:</label>
+                        <div class="col-10 col-sm-11">
+                            <textarea class="form-control" id="body" rows="12" placeholder="Nhập nội dung email" required></textarea>
+                        </div>
+                    </div>
+                    <div class="form-group text-right">
+                        <button type="submit" class="btn btn-success">Gửi</button>
+                    </div>
+                </form>
+            </main>
+        </div>
+    </div>
 
-document.getElementById('sendForm').addEventListener('submit', function(e){
-  e.preventDefault();
-  const toEmail = document.getElementById('toEmail').value.trim();
-  const subject = document.getElementById('subject').value.trim();
-  const body = document.getElementById('body').value.trim();
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+    <script>
+        const email = sessionStorage.getItem('email');
+        const appPassword = sessionStorage.getItem('appPassword');
+        if (!email || !appPassword) {
+            alert('Bạn chưa đăng nhập!');
+            window.location.href = 'inbox.html';
+        }
 
-  fetch('/api/email/send', {
-    method: 'POST',
-    headers: {'Content-Type': 'application/json'},
-    body: JSON.stringify({
-      fromEmail: email,
-      appPassword,
-      toEmail,
-      subject,
-      body
-    })
-  })
-  .then(res => {
-    if(res.ok){
-      alert('Gửi email thành công!');
-      window.location.href = 'inbox.html';
-    } else {
-      alert('Gửi email thất bại.');
-    }
-  })
-  .catch(() => alert('Lỗi gửi email.'));
-});
+        document.getElementById('sendForm').addEventListener('submit', function (e) {
+            e.preventDefault();
+            const toEmail = document.getElementById('toEmail').value.trim();
+            const subject = document.getElementById('subject').value.trim();
+            const body = document.getElementById('body').value.trim();
 
-document.getElementById('backBtn').onclick = () => {
-  window.location.href = 'inbox.html';
-};
-</script>
+            fetch('/api/email/send', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    fromEmail: email,
+                    appPassword,
+                    toEmail,
+                    subject,
+                    body
+                })
+            })
+                .then(res => {
+                    if (res.ok) {
+                        alert('Gửi email thành công!');
+                        window.location.href = 'inbox.html';
+                    } else {
+                        alert('Gửi email thất bại.');
+                    }
+                })
+                .catch(() => alert('Lỗi gửi email.'));
+        });
+
+        document.getElementById('backBtn').onclick = () => {
+            window.location.href = 'inbox.html';
+        };
+    </script>
 </body>
 </html>
