@@ -1,0 +1,59 @@
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MyEmailApp.exe
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MyEmailApp.deps.json
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MyEmailApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MyEmailApp.pdb
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MailKit.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\MimeKit.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.Up2Date
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\refint\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.pdb
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\MyEmailApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\obj\Debug\net9.0\ref\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\Google.Apis.Gmail.v1.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\System.Management.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG\MyEmailApp\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\refint\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.pdb
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MyEmailApp.exe
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MyEmailApp.deps.json
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MyEmailApp.runtimeconfig.json
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MyEmailApp.pdb
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\Google.Apis.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\Google.Apis.Auth.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\Google.Apis.Core.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\Google.Apis.Gmail.v1.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MailKit.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\MimeKit.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\System.Management.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.csproj.Up2Date
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\ref\MyEmailApp.dll
+C:\Users\LENOVO\Downloads\GIT\LAPTRINHMANG BACKUP\MyEmailApp\obj\Debug\net9.0\MyEmailApp.sourcelink.json
