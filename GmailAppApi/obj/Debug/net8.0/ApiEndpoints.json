@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "GmailAppApi.Controller.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "GmailAppApi.Models.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "GmailAppApi.Controllers.EmailController",
     "Method": "ReadEmails",
     "RelativePath": "api/Email/read",

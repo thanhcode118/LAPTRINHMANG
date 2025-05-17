@@ -10,7 +10,29 @@
 	<ItemGroup>
 		<PackageReference Include="MailKit" Version="4.12.0" />
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.5">
+		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		  <PrivateAssets>all</PrivateAssets>
+		</PackageReference>
 		<!-- Thay đổi version nếu cần -->
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="wwwroot\Login-form\.DS_Store" />
+	  <None Include="wwwroot\Login-form\css\.DS_Store" />
+	  <None Include="wwwroot\Login-form\css\bootstrap\.DS_Store" />
+	  <None Include="wwwroot\Login-form\css\bootstrap\mixins\.DS_Store" />
+	  <None Include="wwwroot\Login-form\fonts\.DS_Store" />
+	  <None Include="wwwroot\Login-form\images\.DS_Store" />
+	  <None Include="wwwroot\Login-form\js\.DS_Store" />
+	  <None Include="wwwroot\Login-form\scss\.DS_Store" />
+	  <None Include="wwwroot\Login-form\scss\bootstrap\.DS_Store" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Services\" />
 	</ItemGroup>
 
 </Project>
