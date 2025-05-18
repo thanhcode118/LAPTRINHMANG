@@ -1,6 +1,5 @@
 wwwroot\css\styleLogin.css
 wwwroot\html\compose.html
-wwwroot\html\inbox.html
 wwwroot\js\scriptLogin.js
 wwwroot\Login-form\css\bootstrap.min.css
 wwwroot\Login-form\css\bootstrap\mixins\_border-radius.css
@@ -108,3 +107,4 @@ wwwroot\Login-form\scss\bootstrap\_type.scss
 wwwroot\Login-form\scss\bootstrap\_utilities.scss
 wwwroot\Login-form\scss\bootstrap\_variables.scss
 wwwroot\Login-form\scss\style.scss
+wwwroot\html\inbox.html

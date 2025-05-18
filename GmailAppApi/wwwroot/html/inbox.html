@@ -230,6 +230,7 @@
     <div class="container bootdey">
         <div class="email-app mb-4">
             <nav>
+                <button id="logoutBtn" class="btn btn-secondary btn-block mb-3">Logout</button>
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
                 <ul class="nav">
                     <li class="nav-item">
@@ -247,10 +248,9 @@
                     <li class="nav-item">
                         <a class="nav-link" href="#"><i class="fa fa-bookmark"></i> Important</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span></a>
-                    </li>
                 </ul>
+
+
             </nav>
             <main class="inbox">
                 <div class="toolbar">
@@ -481,5 +481,17 @@
     <script type="text/javascript">
 
     </script>
+   
+    <script>
+        document.getElementById('logoutBtn').addEventListener('click', function () {
+            // Xóa thông tin đăng nhập lưu trong sessionStorage
+            sessionStorage.removeItem('email');
+            sessionStorage.removeItem('appPassword');
+
+            // Chuyển về trang login
+            window.location.href = "/index.html"; // hoặc đường dẫn tới file login.html của bạn
+        });
+    </script>
+
 </body>
 </html>
