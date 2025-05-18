@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\l\u1EADptrinhmangproject\\projectmain\\laptrinhmang\\gmailappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\l\u1EADptrinhmangproject\\projectmain\\laptrinhmang\\gmailappapi\\wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\l\u1EADptrinhmangproject\\projectmain\\laptrinhmang\\gmailappapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\l\u1EADptrinhmangproject\\projectmain\\laptrinhmang\\gmailappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\l\u1EADptrinhmangproject\\projectmain\\laptrinhmang\\gmailappapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "index.html",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\Login-form\\index.html",
@@ -98,18 +98,17 @@
               "RelativeToolTip": "wwwroot\\Login-form\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-17T01:48:14.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:48:14.291Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-17T02:03:37.677Z",
               "EditorCaption": ""
@@ -128,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -136,12 +135,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAowCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T01:47:52.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T01:47:52.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\Controller\\AuthController.cs",
               "RelativeDocumentMoniker": "Controller\\AuthController.cs",
@@ -149,12 +147,11 @@
               "RelativeToolTip": "Controller\\AuthController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAAwFYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T07:30:29.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T07:30:29.4Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "inbox.html",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\inbox.html",
@@ -167,7 +164,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main.js",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\main.js",
               "RelativeDocumentMoniker": "wwwroot\\Login-form\\js\\main.js",
@@ -175,12 +172,11 @@
               "RelativeToolTip": "wwwroot\\Login-form\\js\\main.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-18T05:03:32.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-18T05:03:32.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "compose.html",
               "DocumentMoniker": "D:\\L\u1EADptrinhmangProject\\ProjectMain\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\compose.html",
@@ -188,8 +184,7 @@
               "RelativeToolTip": "wwwroot\\html\\compose.html",
               "ViewState": "AgIAAHsAAAAAAAAAAAAAAG8AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-17T02:03:23.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T02:03:23.839Z"
             },
             {
               "$type": "Document",
