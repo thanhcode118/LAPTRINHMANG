@@ -62,12 +62,37 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
 
+    <style>
+        /* Spinner căn giữa màn hình */
+        #loadingSpinner {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    </style>
+
+    <!-- Thêm spinner loading -->
+    <div id="loadingSpinner">
+        <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
     <script>
         document.getElementById("login-form").addEventListener("submit", function (e) {
             e.preventDefault();
 
             const email = document.getElementById("username").value;
             const password = document.getElementById("password").value;
+
+            // Hiển thị loading và disable nút
+            const spinner = document.getElementById("loadingSpinner");
+            spinner.style.display = "block";
+            const submitBtn = this.querySelector("button[type=submit]");
+            submitBtn.disabled = true;
 
             fetch("/api/auth/login", {
                 method: "POST",
@@ -82,18 +107,18 @@
                     return response.json();
                 })
                 .then(data => {
-                    // Lưu vào sessionStorage
                     sessionStorage.setItem("email", email);
                     sessionStorage.setItem("appPassword", password);
-
                     alert("✅ Thành công, chuyển trang...");
-                    setTimeout(() => {
-                        window.location.href = "/html/inbox.html";
-                    }, 1000);
+                    window.location.href = "/html/inbox.html";
                 })
-
                 .catch(err => {
                     alert("❌ Lỗi đăng nhập: " + err.message);
+                })
+                .finally(() => {
+                    // Ẩn loading và enable nút
+                    spinner.style.display = "none";
+                    submitBtn.disabled = false;
                 });
         });
     </script>

@@ -66,8 +66,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>uq3tix6aa2</Fingerprint>
-      <Integrity>yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54=</Integrity>
+      <Fingerprint>8ih67uuh1b</Fingerprint>
+      <Integrity>IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inbox.html'))</OriginalItemSpec>
@@ -336,8 +336,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>0adqzy6gg9</Fingerprint>
-      <Integrity>uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=</Integrity>
+      <Fingerprint>bagbp6ihbg</Fingerprint>
+      <Integrity>zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Login-form\index.html'))</OriginalItemSpec>

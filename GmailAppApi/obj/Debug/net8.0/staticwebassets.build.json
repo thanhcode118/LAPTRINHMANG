@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "AOLM3CU4Z++IhprGJ9QacUBvIv0L+YVcdnHvdVMmK4M=",
+  "Hash": "SgDSjuQNLoI16dwIhpWyp6PwnQg7oeg6PZV6Mqb2xw0=",
   "Source": "GmailAppApi",
   "BasePath": "_content/GmailAppApi",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "uq3tix6aa2",
-      "Integrity": "yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54=",
+      "Fingerprint": "8ih67uuh1b",
+      "Integrity": "IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\html\\inbox.html"
@@ -409,8 +409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0adqzy6gg9",
-      "Integrity": "uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=",
+      "Fingerprint": "bagbp6ihbg",
+      "Integrity": "zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Login-form\\index.html"
@@ -2659,6 +2659,51 @@
       ]
     },
     {
+      "Route": "html/inbox.8ih67uuh1b.html",
+      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16323"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:43:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8ih67uuh1b"
+        },
+        {
+          "Name": "label",
+          "Value": "html/inbox.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic="
+        }
+      ]
+    },
+    {
       "Route": "html/inbox.html",
       "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "Selectors": [],
@@ -2669,7 +2714,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15657"
+          "Value": "16323"
         },
         {
           "Name": "Content-Type",
@@ -2677,11 +2722,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54=\""
+          "Value": "\"IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 06:48:56 GMT"
+          "Value": "Sun, 18 May 2025 07:43:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2691,52 +2736,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54="
-        }
-      ]
-    },
-    {
-      "Route": "html/inbox.uq3tix6aa2.html",
-      "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "15657"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 06:48:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "uq3tix6aa2"
-        },
-        {
-          "Name": "label",
-          "Value": "html/inbox.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yvFjodA3ewutYP5cf+Wn0jtCYrXnPOxnPus23fY+x54="
+          "Value": "sha256-IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic="
         }
       ]
     },
@@ -3889,7 +3889,7 @@
       ]
     },
     {
-      "Route": "Login-form/index.0adqzy6gg9.html",
+      "Route": "Login-form/index.bagbp6ihbg.html",
       "AssetFile": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3899,7 +3899,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4771"
+          "Value": "5683"
         },
         {
           "Name": "Content-Type",
@@ -3907,11 +3907,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=\""
+          "Value": "\"zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 04:28:06 GMT"
+          "Value": "Sun, 18 May 2025 07:41:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3921,7 +3921,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0adqzy6gg9"
+          "Value": "bagbp6ihbg"
         },
         {
           "Name": "label",
@@ -3929,7 +3929,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo="
+          "Value": "sha256-zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY="
         }
       ]
     },
@@ -3944,7 +3944,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4771"
+          "Value": "5683"
         },
         {
           "Name": "Content-Type",
@@ -3952,11 +3952,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=\""
+          "Value": "\"zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 04:28:06 GMT"
+          "Value": "Sun, 18 May 2025 07:41:21 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3966,7 +3966,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo="
+          "Value": "sha256-zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY="
         }
       ]
     },

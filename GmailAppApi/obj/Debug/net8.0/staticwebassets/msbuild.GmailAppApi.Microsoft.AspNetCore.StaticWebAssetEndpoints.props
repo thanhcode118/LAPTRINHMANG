@@ -36,17 +36,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q0d2ax63hl"},{"Name":"integrity","Value":"sha256-lsMEIad\u002BRv/QHgGYtUlUX3hMGnEoOYCNa07Aq41aVY8="},{"Name":"label","Value":"_content/GmailAppApi/html/Important.html"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7968"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022lsMEIad\u002BRv/QHgGYtUlUX3hMGnEoOYCNa07Aq41aVY8=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:37:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/GmailAppApi/html/inbox.8ih67uuh1b.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inbox.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ih67uuh1b"},{"Name":"integrity","Value":"sha256-IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic="},{"Name":"label","Value":"_content/GmailAppApi/html/inbox.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"16323"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:43:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GmailAppApi/html/inbox.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inbox.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yvFjodA3ewutYP5cf\u002BWn0jtCYrXnPOxnPus23fY\u002Bx54="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15657"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yvFjodA3ewutYP5cf\u002BWn0jtCYrXnPOxnPus23fY\u002Bx54=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 06:48:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GmailAppApi/html/inbox.uq3tix6aa2.html">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\inbox.html'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uq3tix6aa2"},{"Name":"integrity","Value":"sha256-yvFjodA3ewutYP5cf\u002BWn0jtCYrXnPOxnPus23fY\u002Bx54="},{"Name":"label","Value":"_content/GmailAppApi/html/inbox.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15657"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022yvFjodA3ewutYP5cf\u002BWn0jtCYrXnPOxnPus23fY\u002Bx54=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 06:48:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"16323"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022IF26tpb/RKki7s9iCLhQYymFbVeHQqhqKBe56Ln7Jic=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:43:23 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GmailAppApi/html/sent.1irf9f8bzo.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\html\sent.html'))</AssetFile>
@@ -216,17 +216,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"290391"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Mf3o73Xe547u9ptMxkSo0X6OTMEWZjmguJbfLDLSpqs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 04:28:06 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/GmailAppApi/Login-form/index.0adqzy6gg9.html">
+    <StaticWebAssetEndpoint Include="_content/GmailAppApi/Login-form/index.bagbp6ihbg.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Login-form\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0adqzy6gg9"},{"Name":"integrity","Value":"sha256-uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo="},{"Name":"label","Value":"_content/GmailAppApi/Login-form/index.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4771"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 04:28:06 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bagbp6ihbg"},{"Name":"integrity","Value":"sha256-zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY="},{"Name":"label","Value":"_content/GmailAppApi/Login-form/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5683"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:41:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GmailAppApi/Login-form/index.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Login-form\index.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4771"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022uPB/QMITYvtux8LRl30QUGUI7hxKwEoq5gnXxQ3eUMo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 04:28:06 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5683"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022zeea5KM1D0q4n62l81WfdwjXa7DQ4kPgAE/tuv7p2GY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 18 May 2025 07:41:21 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/GmailAppApi/Login-form/js/bootstrap.min.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Login-form\js\bootstrap.min.js'))</AssetFile>

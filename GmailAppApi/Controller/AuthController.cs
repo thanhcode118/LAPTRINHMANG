@@ -4,6 +4,8 @@ using MailKit.Net.Imap;
 using MailKit.Net.Smtp;
 using MailKit.Security;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace GmailAppApi.Controller
 {
@@ -19,55 +21,66 @@ namespace GmailAppApi.Controller
         }
 
         [HttpPost("login")]
-        public IActionResult Login([FromBody] LoginRequest req)
+        public async Task<IActionResult> Login([FromBody] LoginRequest req)
         {
-            if (!CheckImap(req.Email, req.AppPassword))
+            // Kiểm tra IMAP và SMTP song song để tăng tốc
+            var imapTask = CheckImapAsync(req.Email, req.AppPassword);
+            var smtpTask = CheckSmtpAsync(req.Email, req.AppPassword);
+
+            await Task.WhenAll(imapTask, smtpTask);
+
+            if (!imapTask.Result)
                 return BadRequest(new { message = "❌ Đăng nhập IMAP thất bại" });
 
-            if (!CheckSmtp(req.Email, req.AppPassword))
+            if (!smtpTask.Result)
                 return BadRequest(new { message = "❌ Đăng nhập SMTP thất bại" });
 
-            // Lưu vào database
-            var exist = _dbContext.UserAccounts.FirstOrDefault(u => u.Username == req.Email);
+            var exist = await _dbContext.UserAccounts.FirstOrDefaultAsync(u => u.Username == req.Email);
             if (exist == null)
             {
                 var account = new UserAccount
                 {
                     Username = req.Email,
                     Password = req.AppPassword,
-                    LoginDate = DateTime.Now
+                    LoginDate = System.DateTime.Now
                 };
                 _dbContext.UserAccounts.Add(account);
-                _dbContext.SaveChanges();
+                await _dbContext.SaveChangesAsync();
             }
 
             return Ok(new { message = "✅ Đăng nhập thành công!" });
         }
 
-        private bool CheckImap(string email, string password)
+        private async Task<bool> CheckImapAsync(string email, string password)
         {
             try
             {
                 using var client = new ImapClient();
-                client.Connect("imap.gmail.com", 993, true);
-                client.Authenticate(email, password);
-                client.Disconnect(true);
+                await client.ConnectAsync("imap.gmail.com", 993, true);
+                await client.AuthenticateAsync(email, password);
+                await client.DisconnectAsync(true);
                 return true;
             }
-            catch { return false; }
+            catch
+            {
+                return false;
+            }
         }
 
-        private bool CheckSmtp(string email, string password)
+        private async Task<bool> CheckSmtpAsync(string email, string password)
         {
             try
             {
                 using var client = new SmtpClient();
-                client.Connect("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
-                client.Authenticate(email, password);
-                client.Disconnect(true);
+                await client.ConnectAsync("smtp.gmail.com", 587, SecureSocketOptions.StartTls);
+                await client.AuthenticateAsync(email, password);
+                await client.DisconnectAsync(true);
                 return true;
             }
-            catch { return false; }
+            catch
+            {
+                return false;
+            }
         }
     }
 }
