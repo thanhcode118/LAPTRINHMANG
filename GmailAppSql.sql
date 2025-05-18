@@ -1,0 +1,13 @@
+CREATE DATABASE GmailAppApi;
+GO;
+
+USE GmailAppApi;
+GO
+
+CREATE TABLE UserAccounts (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Username NVARCHAR(255) NOT NULL,
+    Password NVARCHAR(255) NOT NULL,
+    LoginDate DATETIME DEFAULT GETDATE()
+);
+GO

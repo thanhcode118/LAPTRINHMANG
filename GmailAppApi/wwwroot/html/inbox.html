@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
+        /* Giữ nguyên CSS bạn đã có */
         body {
             background: #eee
         }
@@ -233,22 +234,29 @@
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
                 <ul class="nav">
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span></a>
+                        <button type="button" class="btn btn-link nav-link" onclick="location.href='inbox.html'">
+                            <i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span>
+                        </button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-star"></i> Stared</a>
+                        <button type="button" class="btn btn-link nav-link" onclick="location.href='./Starred.html'">
+                            <i class="fa fa-star"></i> Starred
+                        </button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-rocket"></i> Sent</a>
+                        <button type="button" class="btn btn-link nav-link" onclick="location.href='sent.html'">
+                            <i class="fa fa-rocket"></i> Sent
+                        </button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-trash-o"></i> Trash</a>
+                        <button type="button" class="btn btn-link nav-link" onclick="location.href='Trash.html'">
+                            <i class="fa fa-trash-o"></i> Trash
+                        </button>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-bookmark"></i> Important</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span></a>
+                        <button type="button" class="btn btn-link nav-link" onclick="location.href='Important.html'">
+                            <i class="fa fa-bookmark"></i> Important
+                        </button>
                     </li>
                 </ul>
             </nav>
@@ -305,173 +313,7 @@
                 </div>
 
                 <ul class="messages">
-                    <li class="message unread">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">
-                                    <span class="fa fa-paper-clip"></span> Today, 3:47 PM
-                                </span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">
-                                    <span class="fa fa-paper-clip"></span> Today, 3:47 PM
-                                </span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message unread">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message unread">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
-                    <li class="message">
-                        <a href="#">
-                            <div class="actions">
-                                <span class="action"><i class="fa fa-square-o"></i></span>
-                                <span class="action"><i class="fa fa-star-o"></i></span>
-                            </div>
-                            <div class="header">
-                                <span class="from">Lukasz Holeczek</span>
-                                <span class="date">Today, 3:47 PM</span>
-                            </div>
-                            <div class="title">
-                                Lorem ipsum dolor sit amet.
-                            </div>
-                            <div class="description">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                            </div>
-                        </a>
-                    </li>
+                    <!-- Email messages sẽ được load động vào đây -->
                 </ul>
             </main>
         </div>
@@ -479,7 +321,58 @@
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
     <script type="text/javascript">
+        document.addEventListener("DOMContentLoaded", function () {
+            const emailList = document.querySelector(".messages");
+            const email = sessionStorage.getItem("email");
+            const appPassword = sessionStorage.getItem("appPassword");
 
+            if (!email || !appPassword) {
+                alert("Bạn chưa đăng nhập!");
+                window.location.href = "/login.html"; // chỉnh đường dẫn login nếu khác
+                return;
+            }
+
+            fetch("/api/email/read", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ email: email, appPassword: appPassword })
+            })
+                .then(res => {
+                    if (!res.ok) throw new Error("Không thể lấy email");
+                    return res.json();
+                })
+                .then(data => {
+                    emailList.innerHTML = ""; // xóa mẫu
+
+                    data.forEach(mail => {
+                        const li = document.createElement("li");
+                        li.classList.add("message");
+
+                        // nếu mail chưa đọc thì đánh dấu bold (nếu bạn có property này, nếu không thì bỏ)
+                        if (mail.isUnread) li.classList.add("unread");
+
+                        li.innerHTML = `
+                        <a href="#">
+                            <div class="actions">
+                                <span class="action"><i class="fa fa-square-o"></i></span>
+                                <span class="action"><i class="fa fa-star-o"></i></span>
+                            </div>
+                            <div class="header">
+                                <span class="from" style="font-weight:bold;">${mail.from || "(Không rõ người gửi)"}</span>
+                                <span class="date">${mail.date || ""}</span>
+                            </div>
+                            <div class="title" style="font-weight:bold;">${mail.subject || "(Không có tiêu đề)"}</div>
+                            <div class="description">${mail.body ? (mail.body.length > 200 ? mail.body.substring(0, 200) + "..." : mail.body) : "(Không có nội dung)"}</div>
+                        </a>`;
+
+                        emailList.appendChild(li);
+                    });
+                })
+                .catch(err => {
+                    console.error(err);
+                    alert("Lỗi tải email: " + err.message);
+                });
+        });
     </script>
 </body>
 </html>

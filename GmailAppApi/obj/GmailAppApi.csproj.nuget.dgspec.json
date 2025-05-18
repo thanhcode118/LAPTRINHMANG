@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj": {}
+    "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj": {}
   },
   "projects": {
-    "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj": {
+    "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
         "projectName": "GmailAppApi",
-        "projectPath": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
-        "packagesPath": "C:\\Users\\hongu\\.nuget\\packages\\",
-        "outputPath": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\v2\\LAPTRINHMANG\\GmailAppApi\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\GmailAppApi.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\VisualStudio\\Tools\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hongu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -92,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

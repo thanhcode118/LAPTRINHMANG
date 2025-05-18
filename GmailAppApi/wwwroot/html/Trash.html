@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Sent Emails</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <style>
+        /* Giữ nguyên CSS từ file mẫu của bạn */
+        body {
+            background: #eee
+        }
+
+        .email-app {
+            display: flex;
+            flex-direction: row;
+            background: #fff;
+            border: 1px solid #e1e6ef;
+        }
+
+            .email-app nav {
+                flex: 0 0 200px;
+                padding: 1rem;
+                border-right: 1px solid #e1e6ef;
+            }
+
+                .email-app nav .btn-block {
+                    margin-bottom: 15px;
+                }
+
+                .email-app nav .nav {
+                    flex-direction: column;
+                }
+
+                    .email-app nav .nav .nav-item {
+                        position: relative;
+                    }
+
+                        .email-app nav .nav .nav-item .btn-link {
+                            color: #151b1e;
+                            border-bottom: 1px solid #e1e6ef;
+                            text-align: left;
+                            padding-left: 0;
+                        }
+
+                            .email-app nav .nav .nav-item .btn-link i {
+                                width: 20px;
+                                margin-right: 10px;
+                                font-size: 14px;
+                                text-align: center;
+                            }
+
+            .email-app main {
+                min-width: 0;
+                flex: 1;
+                padding: 1rem;
+            }
+
+            .email-app .inbox .toolbar {
+                padding-bottom: 1rem;
+                border-bottom: 1px solid #e1e6ef;
+            }
+
+            .email-app .inbox .messages {
+                padding: 0;
+                list-style: none;
+            }
+
+            .email-app .inbox .message {
+                position: relative;
+                padding: 1rem 1rem 1rem 2rem;
+                cursor: pointer;
+                border-bottom: 1px solid #e1e6ef;
+            }
+
+                .email-app .inbox .message:hover {
+                    background: #f9f9fa;
+                }
+
+                .email-app .inbox .message.unread .header, .email-app .inbox .message.unread .title {
+                    font-weight: bold;
+                }
+
+                .email-app .inbox .message .header {
+                    display: flex;
+                    flex-direction: row;
+                    margin-bottom: 0.5rem;
+                }
+
+                    .email-app .inbox .message .header .date {
+                        margin-left: auto;
+                    }
+
+                .email-app .inbox .message .title {
+                    margin-bottom: 0.5rem;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    white-space: nowrap;
+                }
+
+                .email-app .inbox .message .description {
+                    font-size: 12px;
+                }
+
+                /* Màu chữ đen cho các phần hiển thị nội dung */
+                .email-app .inbox .message a,
+                .email-app .inbox .message .header .from,
+                .email-app .inbox .message .title,
+                .email-app .inbox .message .description,
+                .email-app .inbox .message .header .date {
+                    color: black !important;
+                }
+    </style>
+</head>
+<body>
+    <div class="container bootdey">
+        <div class="email-app mb-4">
+            <nav>
+                <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
+                <ul class="nav">
+                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='inbox.html'"><i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span></button></li>
+                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='starred.html'"><i class="fa fa-star"></i> Starred</button></li>
+                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='sent.html'"><i class="fa fa-rocket"></i> Sent</button></li>
+                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='trash.html'"><i class="fa fa-trash-o"></i> Trash</button></li>
+                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='important.html'"><i class="fa fa-bookmark"></i> Important</button></li>
+                </ul>
+            </nav>
+            <main class="inbox">
+                <div class="toolbar">
+                    <!-- Có thể thêm toolbar nếu cần -->
+                </div>
+                <ul class="messages"></ul>
+            </main>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            const emailList = document.querySelector(".messages");
+            const email = sessionStorage.getItem("email");
+            const appPassword = sessionStorage.getItem("appPassword");
+
+            if (!email || !appPassword) {
+                alert("Bạn chưa đăng nhập!");
+                window.location.href = "/login.html";
+                return;
+            }
+
+            fetch("/api/email/read/Trash", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ email: email, appPassword: appPassword })
+            })
+                .then(res => {
+                    if (!res.ok) throw new Error("Không thể lấy email đã gửi");
+                    return res.json();
+                })
+                .then(data => {
+                    emailList.innerHTML = "";
+                    data.forEach(mail => {
+                        const li = document.createElement("li");
+                        li.classList.add("message");
+
+                        li.innerHTML = `
+                            <a href="#">
+                                <div class="actions">
+                                    <span class="action"><i class="fa fa-square-o"></i></span>
+                                    <span class="action"><i class="fa fa-star-o"></i></span>
+                                </div>
+                                <div class="header">
+                                    <span class="from" style="font-weight:bold;">To: ${mail.from || "Không rõ người gửi)"}</span>
+                                    <span class="date">${mail.date || ""}</span>
+                                </div>
+                                <div class="title" style="font-weight:bold;">${mail.subject || "(Không có tiêu đề)"}</div>
+                                <div class="description">${mail.body ? (mail.body.length > 200 ? mail.body.substring(0, 200) + "..." : mail.body) : "(Không có nội dung)"}</div>
+                            </a>
+                        `;
+                        emailList.appendChild(li);
+                    });
+                })
+                .catch(err => {
+                    console.error(err);
+                    alert("Lỗi tải email đã gửi: " + err.message);
+                });
+        });
+    </script>
+</body>
+</html>
