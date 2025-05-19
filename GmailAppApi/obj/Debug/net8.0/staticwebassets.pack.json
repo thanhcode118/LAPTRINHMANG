@@ -1,464 +1,460 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap.min.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\_media.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\_media.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\_media.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_visibility.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_visibility.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\mixins\\_visibility.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\style.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\style.css",
       "PackagePath": "staticwebassets\\Login-form\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\images\\bg.jpg",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\Login-form\\images\\bg.jpg"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
       "PackagePath": "staticwebassets\\Login-form\\index.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\bootstrap.min.js",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\Login-form\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\jquery.min.js",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\Login-form\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\main.js",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\main.js",
       "PackagePath": "staticwebassets\\Login-form\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\popper.js",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\popper.js",
       "PackagePath": "staticwebassets\\Login-form\\js\\popper.js"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
       "PackagePath": "staticwebassets\\Login-form\\main.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_alert.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_alert.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_badge.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_badge.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_breadcrumb.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_button-group.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_button-group.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_buttons.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_buttons.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_card.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_card.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_carousel.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_carousel.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_close.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_close.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_code.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_code.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_custom-forms.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_custom-forms.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_dropdown.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_dropdown.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_forms.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_forms.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_functions.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_functions.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_grid.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_grid.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_images.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_images.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_input-group.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_input-group.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_jumbotron.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_jumbotron.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_list-group.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_list-group.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_media.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_media.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_mixins.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_mixins.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_modal.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_modal.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_nav.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_nav.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_navbar.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_navbar.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_pagination.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_pagination.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_popover.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_popover.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_print.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_print.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_progress.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_progress.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_reboot.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_reboot.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_root.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_root.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_spinners.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_spinners.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tables.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tables.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_toasts.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_toasts.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tooltip.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tooltip.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_transitions.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_transitions.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_type.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_type.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_utilities.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_utilities.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_variables.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_variables.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_float.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_float.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_image.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_size.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_size.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_align.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_align.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_background.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_background.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_display.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_display.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_float.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_float.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_position.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_position.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_text.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_text.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\style.scss",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\style.scss",
       "PackagePath": "staticwebassets\\Login-form\\scss\\style.scss"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\styleLogin.css",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\styleLogin.css",
       "PackagePath": "staticwebassets\\css\\styleLogin.css"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
       "PackagePath": "staticwebassets\\html\\Important.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
       "PackagePath": "staticwebassets\\html\\Starred.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
       "PackagePath": "staticwebassets\\html\\Trash.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
       "PackagePath": "staticwebassets\\html\\compose.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "PackagePath": "staticwebassets\\html\\inbox.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
       "PackagePath": "staticwebassets\\html\\sent.html"
     },
     {
-      "Id": "C:\\Users\\LENOVO\\Downloads\\GIT\\LAPTRINHMANGMAIN\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",
+      "Id": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",
       "PackagePath": "staticwebassets\\js\\scriptLogin.js"
-    },
-    {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GmailAppApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
-      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GmailAppApi.Microsoft.AspNetCore.StaticWebAssets.props",

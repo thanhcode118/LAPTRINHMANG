@@ -7,6 +7,7 @@
     <title>bs4 beta email inbox - Bootdey.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
     <style type="text/css">
         /* Giữ nguyên CSS bạn đã có */
         body {
@@ -225,6 +226,7 @@
                 }
         }
     </style>
+
 </head>
 <body>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
@@ -233,34 +235,34 @@
             <nav>
                 <button id="logoutBtn" class="btn btn-secondary btn-block mb-3">Logout</button>
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
-                <ul class="nav">
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-link nav-link" onclick="location.href='inbox.html'">
-                            <i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span>
+                <ul class="sidebar-nav">
+                    <li class="sidebar-item">
+                        <button type="button" class="sidebar-link" onclick="setActive(this, 'inbox.html')">
+                            <i class="fa fa-inbox"></i> Inbox <span class="badge">4</span>
                         </button>
                     </li>
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-link nav-link" onclick="location.href='./Starred.html'">
+                    <li class="sidebar-item">
+                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Starred.html')">
                             <i class="fa fa-star"></i> Starred
                         </button>
                     </li>
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-link nav-link" onclick="location.href='sent.html'">
+                    <li class="sidebar-item">
+                        <button type="button" class="sidebar-link" onclick="setActive(this, 'sent.html')">
                             <i class="fa fa-rocket"></i> Sent
                         </button>
                     </li>
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-link nav-link" onclick="location.href='Trash.html'">
+                    <li class="sidebar-item">
+                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Trash.html')">
                             <i class="fa fa-trash-o"></i> Trash
                         </button>
                     </li>
-                    <li class="nav-item">
-                        <button type="button" class="btn btn-link nav-link" onclick="location.href='Important.html'">
+                    <li class="sidebar-item">
+                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Important.html')">
                             <i class="fa fa-bookmark"></i> Important
                         </button>
-                        <a class="nav-link" href="#"><i class="fa fa-bookmark"></i> Important</a>
                     </li>
                 </ul>
+
 
 
             </nav>
@@ -315,10 +317,23 @@
                         </button>
                     </div>
                 </div>
-
                 <ul class="messages">
                     <!-- Email messages sẽ được load động vào đây -->
                 </ul>
+                <div id="loading-overlay" style="
+                         position: fixed;
+                         top: 0; left: 0; right: 0; bottom: 0;
+                         background-color: rgba(255, 255, 255, 0.9);
+                         display: flex;
+                         align-items: center;
+                         justify-content: center;
+                         z-index: 9999;
+                         font-size: 20px;
+                         color: #333;
+                         font-weight: bold;
+">
+                    🔄 Đang tải dữ liệu email, vui lòng chờ...
+                </div>
             </main>
         </div>
     </div>
@@ -327,12 +342,13 @@
     <script type="text/javascript">
         document.addEventListener("DOMContentLoaded", function () {
             const emailList = document.querySelector(".messages");
+            const loadingOverlay = document.getElementById("loading-overlay");
             const email = sessionStorage.getItem("email");
             const appPassword = sessionStorage.getItem("appPassword");
 
             if (!email || !appPassword) {
                 alert("Bạn chưa đăng nhập!");
-                window.location.href = "/login.html"; // chỉnh đường dẫn login nếu khác
+                window.location.href = "/login.html";
                 return;
             }
 
@@ -346,13 +362,12 @@
                     return res.json();
                 })
                 .then(data => {
-                    emailList.innerHTML = ""; // xóa mẫu
+                    emailList.innerHTML = "";
 
                     data.forEach(mail => {
                         const li = document.createElement("li");
                         li.classList.add("message");
 
-                        // nếu mail chưa đọc thì đánh dấu bold (nếu bạn có property này, nếu không thì bỏ)
                         if (mail.isUnread) li.classList.add("unread");
 
                         li.innerHTML = `
@@ -375,10 +390,16 @@
                 .catch(err => {
                     console.error(err);
                     alert("Lỗi tải email: " + err.message);
+                })
+                .finally(() => {
+                    // Ẩn bảng loading
+                    loadingOverlay.style.display = "none";
                 });
         });
+
+
     </script>
-   
+
     <script>
         document.getElementById('logoutBtn').addEventListener('click', function () {
             // Xóa thông tin đăng nhập lưu trong sessionStorage
@@ -389,6 +410,20 @@
             window.location.href = "/index.html"; // hoặc đường dẫn tới file login.html của bạn
         });
     </script>
+    <script>
+        window.addEventListener('DOMContentLoaded', () => {
+            const path = window.location.pathname;
+            const filename = path.substring(path.lastIndexOf('/') + 1);
+            const links = document.querySelectorAll('.sidebar-link');
 
+            links.forEach(link => {
+                if (link.onclick && link.onclick.toString().includes(filename)) {
+                    link.classList.add('active');
+                }
+            });
+        });
+    </script>
+
+    <script src="../js/Inbox.js"></script>
 </body>
 </html>
