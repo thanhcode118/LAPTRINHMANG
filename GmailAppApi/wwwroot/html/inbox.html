@@ -7,7 +7,7 @@
     <title>bs4 beta email inbox - Bootdey.com</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../css/inbox.css">
     <style type="text/css">
         /* Giữ nguyên CSS bạn đã có */
         body {
@@ -236,32 +236,13 @@
                 <button id="logoutBtn" class="btn btn-secondary btn-block mb-3">Logout</button>
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
                 <ul class="sidebar-nav">
-                    <li class="sidebar-item">
-                        <button type="button" class="sidebar-link" onclick="setActive(this, 'inbox.html')">
-                            <i class="fa fa-inbox"></i> Inbox <span class="badge">4</span>
-                        </button>
-                    </li>
-                    <li class="sidebar-item">
-                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Starred.html')">
-                            <i class="fa fa-star"></i> Starred
-                        </button>
-                    </li>
-                    <li class="sidebar-item">
-                        <button type="button" class="sidebar-link" onclick="setActive(this, 'sent.html')">
-                            <i class="fa fa-rocket"></i> Sent
-                        </button>
-                    </li>
-                    <li class="sidebar-item">
-                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Trash.html')">
-                            <i class="fa fa-trash-o"></i> Trash
-                        </button>
-                    </li>
-                    <li class="sidebar-item">
-                        <button type="button" class="sidebar-link" onclick="setActive(this, 'Important.html')">
-                            <i class="fa fa-bookmark"></i> Important
-                        </button>
-                    </li>
+                    <li class="sidebar-item"><a href="inbox.html" class="sidebar-link active"><i class="fa fa-inbox"></i> Inbox <span class="badge">4</span></a></li>
+                    <li class="sidebar-item"><a href="Starred.html" class="sidebar-link"><i class="fa fa-star"></i> Starred</a></li>
+                    <li class="sidebar-item"><a href="sent.html" class="sidebar-link"><i class="fa fa-rocket"></i> Sent</a></li>
+                    <li class="sidebar-item"><a href="Trash.html" class="sidebar-link"><i class="fa fa-trash-o"></i> Trash</a></li>
+                    <li class="sidebar-item"><a href="Important.html" class="sidebar-link"><i class="fa fa-bookmark"></i> Important</a></li>
                 </ul>
+
 
 
 
@@ -321,19 +302,21 @@
                     <!-- Email messages sẽ được load động vào đây -->
                 </ul>
                 <div id="loading-overlay" style="
-                         position: fixed;
-                         top: 0; left: 0; right: 0; bottom: 0;
-                         background-color: rgba(255, 255, 255, 0.9);
-                         display: flex;
-                         align-items: center;
-                         justify-content: center;
-                         z-index: 9999;
-                         font-size: 20px;
-                         color: #333;
-                         font-weight: bold;
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
 ">
                     🔄 Đang tải dữ liệu email, vui lòng chờ...
                 </div>
+
+
             </main>
         </div>
     </div>

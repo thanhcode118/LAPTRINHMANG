@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\css\\inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\css\\inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\css\\inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\css\\inbox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\js\\inbox.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -21,22 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|c:\\work_space\\laptm\\laptrinhmang\\gmailappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,45 +74,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inbox.js",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\Inbox.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Inbox.js",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\Inbox.js",
-              "RelativeToolTip": "wwwroot\\js\\Inbox.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-05-19T09:38:26.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "inbox.css",
               "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\inbox.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\inbox.css",
               "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\inbox.css",
               "RelativeToolTip": "wwwroot\\css\\inbox.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-19T09:34:45.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T09:34:45.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Important.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\Important.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
-              "RelativeToolTip": "wwwroot\\html\\Important.html",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAqwJIAAAApAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "inbox.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\inbox.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
+              "RelativeToolTip": "wwwroot\\html\\inbox.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T07:18:31.071Z"
+              "WhenOpened": "2025-05-18T05:34:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sent.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\sent.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
+              "RelativeToolTip": "wwwroot\\html\\sent.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAANMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T05:37:44.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Starred.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\Starred.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
+              "RelativeToolTip": "wwwroot\\html\\Starred.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T06:45:41.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Trash.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\Trash.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
+              "RelativeToolTip": "wwwroot\\html\\Trash.html",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAH0AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-05-18T05:47:42.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "main.html",
               "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
               "RelativeDocumentMoniker": "wwwroot\\Login-form\\main.html",
@@ -124,15 +146,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
-              "RelativeDocumentMoniker": "wwwroot\\Login-form\\index.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
-              "RelativeToolTip": "wwwroot\\Login-form\\index.html",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Inbox.js",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\Inbox.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\Inbox.js",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\Inbox.js",
+              "RelativeToolTip": "wwwroot\\js\\Inbox.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-19T09:38:26.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Important.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
+              "RelativeDocumentMoniker": "wwwroot\\html\\Important.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
+              "RelativeToolTip": "wwwroot\\html\\Important.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T07:42:58.839Z"
+              "WhenOpened": "2025-05-18T07:18:31.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -148,52 +183,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "inbox.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\inbox.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
-              "RelativeToolTip": "wwwroot\\html\\inbox.html",
-              "ViewState": "AgIAAGMBAAAAAAAAAAAAAIwBAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:34:39.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "sent.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\sent.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
-              "RelativeToolTip": "wwwroot\\html\\sent.html",
-              "ViewState": "AgIAAKMAAAAAAAAAAADwv8AAAAAAAAAAAAAAAA==",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\Login-form\\index.html",
+              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
+              "RelativeToolTip": "wwwroot\\Login-form\\index.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:37:44.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Starred.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\Starred.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
-              "RelativeToolTip": "wwwroot\\html\\Starred.html",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAALwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T06:45:41.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Trash.html",
-              "DocumentMoniker": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
-              "RelativeDocumentMoniker": "wwwroot\\html\\Trash.html",
-              "ToolTip": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
-              "RelativeToolTip": "wwwroot\\html\\Trash.html",
-              "ViewState": "AgIAAJoAAAAAAAAAAADwv7kAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:47:42.913Z"
+              "WhenOpened": "2025-05-18T07:42:58.839Z"
             },
             {
               "$type": "Document",

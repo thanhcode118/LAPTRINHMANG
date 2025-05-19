@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://netdna.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/inbox.css">
     <style>
         /* Giữ nguyên CSS từ file mẫu của bạn */
         body {
@@ -118,12 +119,12 @@
         <div class="email-app mb-4">
             <nav>
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
-                <ul class="nav">
-                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='inbox.html'"><i class="fa fa-inbox"></i> Inbox <span class="badge badge-danger">4</span></button></li>
-                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='starred.html'"><i class="fa fa-star"></i> Starred</button></li>
-                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='sent.html'"><i class="fa fa-rocket"></i> Sent</button></li>
-                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='trash.html'"><i class="fa fa-trash-o"></i> Trash</button></li>
-                    <li class="nav-item"><button class="btn btn-link nav-link" onclick="location.href='important.html'"><i class="fa fa-bookmark"></i> Important</button></li>
+                <ul class="sidebar-nav">
+                    <li class="sidebar-item"><a href="inbox.html" class="sidebar-link"><i class="fa fa-inbox"></i> Inbox <span class="badge">4</span></a></li>
+                    <li class="sidebar-item"><a href="Starred.html" class="sidebar-link"><i class="fa fa-star"></i> Starred</a></li>
+                    <li class="sidebar-item"><a href="sent.html" class="sidebar-link"><i class="fa fa-rocket"></i> Sent</a></li>
+                    <li class="sidebar-item"><a href="Trash.html" class="sidebar-link active"><i class="fa fa-trash-o"></i> Trash</a></li>
+                    <li class="sidebar-item"><a href="Important.html" class="sidebar-link"><i class="fa fa-bookmark"></i> Important</a></li>
                 </ul>
             </nav>
             <main class="inbox">
@@ -131,6 +132,21 @@
                     <!-- Có thể thêm toolbar nếu cần -->
                 </div>
                 <ul class="messages"></ul>
+                <div id="loading-overlay" style="
+    position: fixed;
+    top: 0; left: 0; right: 0; bottom: 0;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 9999;
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+">
+                    🔄 Đang tải dữ liệu email, vui lòng chờ...
+                </div>
+
             </main>
         </div>
     </div>
@@ -141,6 +157,7 @@
     <script>
         document.addEventListener("DOMContentLoaded", function () {
             const emailList = document.querySelector(".messages");
+            const loadingOverlay = document.getElementById("loading-overlay"); // Thêm dòng này
             const email = sessionStorage.getItem("email");
             const appPassword = sessionStorage.getItem("appPassword");
 
@@ -156,7 +173,7 @@
                 body: JSON.stringify({ email: email, appPassword: appPassword })
             })
                 .then(res => {
-                    if (!res.ok) throw new Error("Không thể lấy email đã gửi");
+                    if (!res.ok) throw new Error("Không thể lấy email trong thùng rác");
                     return res.json();
                 })
                 .then(data => {
@@ -166,27 +183,33 @@
                         li.classList.add("message");
 
                         li.innerHTML = `
-                            <a href="#">
-                                <div class="actions">
-                                    <span class="action"><i class="fa fa-square-o"></i></span>
-                                    <span class="action"><i class="fa fa-star-o"></i></span>
-                                </div>
-                                <div class="header">
-                                    <span class="from" style="font-weight:bold;">To: ${mail.from || "Không rõ người gửi)"}</span>
-                                    <span class="date">${mail.date || ""}</span>
-                                </div>
-                                <div class="title" style="font-weight:bold;">${mail.subject || "(Không có tiêu đề)"}</div>
-                                <div class="description">${mail.body ? (mail.body.length > 200 ? mail.body.substring(0, 200) + "..." : mail.body) : "(Không có nội dung)"}</div>
-                            </a>
-                        `;
+                                <a href="#">
+                                    <div class="actions">
+                                        <span class="action"><i class="fa fa-square-o"></i></span>
+                                        <span class="action"><i class="fa fa-star-o"></i></span>
+                                    </div>
+                                    <div class="header">
+                                        <span class="from" style="font-weight:bold;">From: ${mail.from || "(Không rõ người gửi)"}</span>
+                                        <span class="date">${mail.date || ""}</span>
+                                    </div>
+                                    <div class="title" style="font-weight:bold;">${mail.subject || "(Không có tiêu đề)"}</div>
+                                    <div class="description">${mail.body ? (mail.body.length > 200 ? mail.body.substring(0, 200) + "..." : mail.body) : "(Không có nội dung)"}</div>
+                                </a>
+                            `;
                         emailList.appendChild(li);
                     });
                 })
                 .catch(err => {
                     console.error(err);
-                    alert("Lỗi tải email đã gửi: " + err.message);
+                    alert("Lỗi tải email trong thùng rác: " + err.message);
+                })
+                .finally(() => {
+                    // Ẩn loading overlay
+                    if (loadingOverlay) loadingOverlay.style.display = "none";
                 });
         });
     </script>
+    <script src="../js/Inbox.js"></script>
+
 </body>
 </html>
