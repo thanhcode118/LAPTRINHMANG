@@ -118,6 +118,8 @@
     <div class="container bootdey">
         <div class="email-app mb-4">
             <nav>
+                <button id="logoutBtn" class="btn btn-secondary btn-block mb-3">Logout</button>
+
                 <a href="compose.html" class="btn btn-danger btn-block">New Email</a>
                 <ul class="sidebar-nav">
                     <li class="sidebar-item"><a href="inbox.html" class="sidebar-link"><i class="fa fa-inbox"></i> Inbox <span class="badge">4</span></a></li>
@@ -129,7 +131,54 @@
             </nav>
             <main class="inbox">
                 <div class="toolbar">
-                    <!-- Có thể thêm toolbar nếu cần -->
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-envelope"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-star"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-star-o"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-bookmark-o"></span>
+                        </button>
+                    </div>
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-mail-reply"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-mail-reply-all"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-mail-forward"></span>
+                        </button>
+                    </div>
+                    <button type="button" class="btn btn-light">
+                        <span class="fa fa-trash-o"></span>
+                    </button>
+                    <div class="btn-group">
+                        <button type="button" class="btn btn-light dropdown-toggle" data-toggle="dropdown">
+                            <span class="fa fa-tags"></span>
+                            <span class="caret"></span>
+                        </button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="#">add label <span class="badge badge-danger"> Home</span></a>
+                            <a class="dropdown-item" href="#">add label <span class="badge badge-info"> Job</span></a>
+                            <a class="dropdown-item" href="#">add label <span class="badge badge-success"> Clients</span></a>
+                            <a class="dropdown-item" href="#">add label <span class="badge badge-warning"> News</span></a>
+                        </div>
+                    </div>
+                    <div class="btn-group float-right">
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-chevron-left"></span>
+                        </button>
+                        <button type="button" class="btn btn-light">
+                            <span class="fa fa-chevron-right"></span>
+                        </button>
+                    </div>
                 </div>
                 <ul class="messages"></ul>
                 <div id="loading-overlay" style="
