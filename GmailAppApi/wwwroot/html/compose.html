@@ -58,48 +58,38 @@
     <div class="container bootdey">
         <div class="email-app">
             <nav>
-                <a href="#" id="backBtn" class="btn btn-danger btn-block">Quay lại hộp thư</a>
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-inbox"></i> Hộp thư đến</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-star"></i> Đã gắn sao</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-rocket"></i> Đã gửi</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-trash-o"></i> Thùng rác</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#"><i class="fa fa-bookmark"></i> Quan trọng</a>
-                    </li>
+                <a href="#" id="backBtn" class="btn btn-danger btn-block">Back to inbox</a>
+                <ul class="sidebar-nav">
+                    <li class="sidebar-item"><a href="inbox.html" class="sidebar-link active"><i class="fa fa-inbox"></i> Inbox <span class="badge">4</span></a></li>
+                    <li class="sidebar-item"><a href="Starred.html" class="sidebar-link"><i class="fa fa-star"></i> Starred</a></li>
+                    <li class="sidebar-item"><a href="sent.html" class="sidebar-link"><i class="fa fa-rocket"></i> Sent</a></li>
+                    <li class="sidebar-item"><a href="Trash.html" class="sidebar-link"><i class="fa fa-trash-o"></i> Trash</a></li>
+                    <li class="sidebar-item"><a href="Important.html" class="sidebar-link"><i class="fa fa-bookmark"></i> Important</a></li>
                 </ul>
             </nav>
             <main>
-                <p class="text-center">Gửi Email</p>
+                <p class="text-center">Send Email</p>
                 <form id="sendForm">
                     <div class="form-row mb-3">
                         <label for="toEmail" class="col-2 col-sm-1 col-form-label">To:</label>
                         <div class="col-10 col-sm-11">
-                            <input type="email" class="form-control" id="toEmail" placeholder="Nhập email người nhận" required>
+                            <input type="email" class="form-control" id="toEmail" placeholder="Enter recipient email" required>
                         </div>
                     </div>
                     <div class="form-row mb-3">
-                        <label for="subject" class="col-2 col-sm-1 col-form-label">Chủ đề:</label>
+                        <label for="subject" class="col-2 col-sm-1 col-form-label">Topic:</label>
                         <div class="col-10 col-sm-11">
-                            <input type="text" class="form-control" id="subject" placeholder="Nhập tiêu đề" required>
+                            <input type="text" class="form-control" id="subject" placeholder="Enter your topic" required>
                         </div>
                     </div>
                     <div class="form-row mb-3">
-                        <label for="body" class="col-2 col-sm-1 col-form-label">Nội dung:</label>
+                        <label for="body" class="col-2 col-sm-1 col-form-label">Content:</label>
                         <div class="col-10 col-sm-11">
-                            <textarea class="form-control" id="body" rows="12" placeholder="Nhập nội dung email" required></textarea>
+                            <textarea class="form-control" id="body" rows="12" placeholder="Enter email content" required></textarea>
                         </div>
                     </div>
                     <div class="form-group text-right">
-                        <button type="submit" class="btn btn-success">Gửi</button>
+                        <button type="submit" class="btn btn-success">Send</button>
                     </div>
                 </form>
             </main>

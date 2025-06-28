@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GmailAppApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3939e7e948fa5cf1e1d4f227057ef0ebc070cb3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c94aabcefee704d22f1f959870fc0e7a8e64a0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GmailAppApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GmailAppApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

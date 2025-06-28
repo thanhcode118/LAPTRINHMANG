@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+DSuo+WRWwedPzFvin5XqpWaep1ogSymHZfCyxUfA0Q=",
+  "Hash": "TL6pA4ZRBFXi51Wq97llBTCfpWNQag3yb/M6n8x2ODY=",
   "Source": "GmailAppApi",
   "BasePath": "_content/GmailAppApi",
   "Mode": "Default",
@@ -10,17 +10,36 @@
     {
       "Name": "GmailAppApi\\wwwroot",
       "Source": "GmailAppApi",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\styleLogin.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\inbox.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "BasePath": "_content/GmailAppApi",
+      "RelativePath": "css/inbox.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\inbox.css"
+    },
+    {
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\css\\styleLogin.css",
+      "SourceId": "GmailAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "css/styleLogin.css",
       "AssetKind": "All",
@@ -36,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styleLogin.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/compose.html",
       "AssetKind": "All",
@@ -55,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\html\\compose.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/Important.html",
       "AssetKind": "All",
@@ -74,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\html\\Important.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/inbox.html",
       "AssetKind": "All",
@@ -93,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\html\\inbox.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/sent.html",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\html\\sent.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/Starred.html",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\html\\Starred.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "html/Trash.html",
       "AssetKind": "All",
@@ -150,10 +169,29 @@
       "OriginalItemSpec": "wwwroot\\html\\Trash.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\Inbox.js",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "BasePath": "_content/GmailAppApi",
+      "RelativePath": "js/Inbox.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Inbox.js"
+    },
+    {
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\js\\scriptLogin.js",
+      "SourceId": "GmailAppApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "js/scriptLogin.js",
       "AssetKind": "All",
@@ -169,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scriptLogin.js"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap.min.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap.min.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -188,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\_media.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\_media.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/_media.css",
       "AssetKind": "All",
@@ -207,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\_media.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/mixins/_border-radius.css",
       "AssetKind": "All",
@@ -226,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\mixins\\_border-radius.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/mixins/_reset-text.css",
       "AssetKind": "All",
@@ -245,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\mixins\\_reset-text.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/mixins/_screen-reader.css",
       "AssetKind": "All",
@@ -264,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\mixins\\_screen-reader.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/mixins/_text-hide.css",
       "AssetKind": "All",
@@ -283,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\mixins\\_text-hide.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_visibility.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\mixins\\_visibility.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/mixins/_visibility.css",
       "AssetKind": "All",
@@ -302,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\mixins\\_visibility.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/bootstrap/utilities/_stretched-link.css",
       "AssetKind": "All",
@@ -321,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\bootstrap\\utilities\\_stretched-link.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\style.css",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\css\\style.css",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/css/style.css",
       "AssetKind": "All",
@@ -340,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\css\\style.css"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\images\\bg.jpg",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\images\\bg.jpg",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/images/bg.jpg",
       "AssetKind": "All",
@@ -359,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\images\\bg.jpg"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/index.html",
       "AssetKind": "All",
@@ -378,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\index.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\bootstrap.min.js",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\bootstrap.min.js",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -397,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\jquery.min.js",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\jquery.min.js",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/js/jquery.min.js",
       "AssetKind": "All",
@@ -416,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\main.js",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\main.js",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/js/main.js",
       "AssetKind": "All",
@@ -435,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\js\\main.js"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\popper.js",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\js\\popper.js",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/js/popper.js",
       "AssetKind": "All",
@@ -454,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\js\\popper.js"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/main.html",
       "AssetKind": "All",
@@ -473,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\main.html"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_alert.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_alert.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_alert.scss",
       "AssetKind": "All",
@@ -492,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_alert.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_badge.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_badge.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_badge.scss",
       "AssetKind": "All",
@@ -511,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_badge.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_breadcrumb.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_breadcrumb.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_breadcrumb.scss",
       "AssetKind": "All",
@@ -530,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_button-group.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_button-group.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_button-group.scss",
       "AssetKind": "All",
@@ -549,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_button-group.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_buttons.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_buttons.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_buttons.scss",
       "AssetKind": "All",
@@ -568,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_buttons.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_card.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_card.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_card.scss",
       "AssetKind": "All",
@@ -587,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_card.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_carousel.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_carousel.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_carousel.scss",
       "AssetKind": "All",
@@ -606,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_carousel.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_close.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_close.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_close.scss",
       "AssetKind": "All",
@@ -625,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_close.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_code.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_code.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_code.scss",
       "AssetKind": "All",
@@ -644,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_code.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_custom-forms.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_custom-forms.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_custom-forms.scss",
       "AssetKind": "All",
@@ -663,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_custom-forms.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_dropdown.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_dropdown.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_dropdown.scss",
       "AssetKind": "All",
@@ -682,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_forms.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_forms.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_forms.scss",
       "AssetKind": "All",
@@ -701,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_forms.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_functions.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_functions.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_functions.scss",
       "AssetKind": "All",
@@ -720,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_functions.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_grid.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_grid.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_grid.scss",
       "AssetKind": "All",
@@ -739,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_grid.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_images.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_images.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_images.scss",
       "AssetKind": "All",
@@ -758,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_images.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_input-group.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_input-group.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_input-group.scss",
       "AssetKind": "All",
@@ -777,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_input-group.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_jumbotron.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_jumbotron.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_jumbotron.scss",
       "AssetKind": "All",
@@ -796,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_jumbotron.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_list-group.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_list-group.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_list-group.scss",
       "AssetKind": "All",
@@ -815,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_list-group.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_media.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_media.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_media.scss",
       "AssetKind": "All",
@@ -834,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_media.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_mixins.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_mixins.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_mixins.scss",
       "AssetKind": "All",
@@ -853,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_mixins.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_modal.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_modal.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_modal.scss",
       "AssetKind": "All",
@@ -872,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_modal.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_nav.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_nav.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_nav.scss",
       "AssetKind": "All",
@@ -891,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_nav.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_navbar.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_navbar.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_navbar.scss",
       "AssetKind": "All",
@@ -910,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_navbar.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_pagination.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_pagination.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_pagination.scss",
       "AssetKind": "All",
@@ -929,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_pagination.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_popover.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_popover.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_popover.scss",
       "AssetKind": "All",
@@ -948,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_popover.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_print.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_print.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_print.scss",
       "AssetKind": "All",
@@ -967,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_print.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_progress.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_progress.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_progress.scss",
       "AssetKind": "All",
@@ -986,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_progress.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_reboot.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_reboot.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_reboot.scss",
       "AssetKind": "All",
@@ -1005,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_reboot.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_root.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_root.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_root.scss",
       "AssetKind": "All",
@@ -1024,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_root.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_spinners.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_spinners.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_spinners.scss",
       "AssetKind": "All",
@@ -1043,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_spinners.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tables.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tables.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_tables.scss",
       "AssetKind": "All",
@@ -1062,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_tables.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_toasts.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_toasts.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_toasts.scss",
       "AssetKind": "All",
@@ -1081,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_toasts.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tooltip.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_tooltip.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_tooltip.scss",
       "AssetKind": "All",
@@ -1100,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_transitions.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_transitions.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_transitions.scss",
       "AssetKind": "All",
@@ -1119,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_transitions.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_type.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_type.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_type.scss",
       "AssetKind": "All",
@@ -1138,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_type.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_utilities.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_utilities.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_utilities.scss",
       "AssetKind": "All",
@@ -1157,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_utilities.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_variables.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\_variables.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/_variables.scss",
       "AssetKind": "All",
@@ -1176,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\_variables.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/bootstrap.scss",
       "AssetKind": "All",
@@ -1195,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1214,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1233,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1252,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_background-variant.scss",
       "AssetKind": "All",
@@ -1271,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_background-variant.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_badge.scss",
       "AssetKind": "All",
@@ -1290,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_badge.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -1309,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -1328,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -1347,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1366,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_caret.scss",
       "AssetKind": "All",
@@ -1385,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -1404,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -1423,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_float.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_float.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_float.scss",
       "AssetKind": "All",
@@ -1442,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_float.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_forms.scss",
       "AssetKind": "All",
@@ -1461,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -1480,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_grid.scss",
       "AssetKind": "All",
@@ -1499,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_grid-framework.scss",
       "AssetKind": "All",
@@ -1518,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_grid-framework.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_hover.scss",
       "AssetKind": "All",
@@ -1537,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_hover.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_image.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_image.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_image.scss",
       "AssetKind": "All",
@@ -1556,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -1575,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_lists.scss",
       "AssetKind": "All",
@@ -1594,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_nav-divider.scss",
       "AssetKind": "All",
@@ -1613,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_nav-divider.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -1632,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -1651,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_resize.scss",
       "AssetKind": "All",
@@ -1670,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_screen-reader.scss",
       "AssetKind": "All",
@@ -1689,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_screen-reader.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_size.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_size.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_size.scss",
       "AssetKind": "All",
@@ -1708,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_size.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_table-row.scss",
       "AssetKind": "All",
@@ -1727,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_table-row.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_text-emphasis.scss",
       "AssetKind": "All",
@@ -1746,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_text-hide.scss",
       "AssetKind": "All",
@@ -1765,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-hide.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -1784,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_transition.scss",
       "AssetKind": "All",
@@ -1803,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/mixins/_visibility.scss",
       "AssetKind": "All",
@@ -1822,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\mixins\\_visibility.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_align.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_align.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_align.scss",
       "AssetKind": "All",
@@ -1841,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_align.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_background.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_background.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_background.scss",
       "AssetKind": "All",
@@ -1860,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_background.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_borders.scss",
       "AssetKind": "All",
@@ -1879,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_borders.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_clearfix.scss",
       "AssetKind": "All",
@@ -1898,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_display.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_display.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_display.scss",
       "AssetKind": "All",
@@ -1917,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_display.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_embed.scss",
       "AssetKind": "All",
@@ -1936,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_embed.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_flex.scss",
       "AssetKind": "All",
@@ -1955,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_flex.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_float.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_float.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_float.scss",
       "AssetKind": "All",
@@ -1974,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_float.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_overflow.scss",
       "AssetKind": "All",
@@ -1993,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_overflow.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_position.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_position.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_position.scss",
       "AssetKind": "All",
@@ -2012,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_position.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_screenreaders.scss",
       "AssetKind": "All",
@@ -2031,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_screenreaders.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_shadows.scss",
       "AssetKind": "All",
@@ -2050,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_shadows.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_sizing.scss",
       "AssetKind": "All",
@@ -2069,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_sizing.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_spacing.scss",
       "AssetKind": "All",
@@ -2088,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_spacing.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_stretched-link.scss",
       "AssetKind": "All",
@@ -2107,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_text.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_text.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_text.scss",
       "AssetKind": "All",
@@ -2126,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_text.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/utilities/_visibility.scss",
       "AssetKind": "All",
@@ -2145,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\utilities\\_visibility.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/bootstrap/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -2164,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\Login-form\\scss\\bootstrap\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\style.scss",
+      "Identity": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\scss\\style.scss",
       "SourceId": "GmailAppApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\WORK_SPACE\\LapTM\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
+      "ContentRoot": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\",
       "BasePath": "_content/GmailAppApi",
       "RelativePath": "Login-form/scss/style.scss",
       "AssetKind": "All",
