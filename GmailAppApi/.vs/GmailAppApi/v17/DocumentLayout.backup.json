@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\login-form\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\login-form\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\trash.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\starred.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\sent.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\important.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\compose.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\html\\inbox.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\login-form\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\login-form\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|solutionrelative:wwwroot\\login-form\\main.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42C8188A-0D93-9FCD-6233-3E28C49A8DAF}|GmailAppApi.csproj|d:\\uth\\hk-5\\laptrinhmang\\baitaplon\\fnal\\laptrinhmang\\gmailappapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,16 +81,21 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "compose.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\compose.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\compose.html",
               "RelativeToolTip": "wwwroot\\html\\compose.html",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFsAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAIwHwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-06-28T16:15:18.41Z"
+              "WhenOpened": "2025-06-28T16:15:18.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -106,55 +111,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "inbox.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\inbox.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\inbox.html",
               "RelativeToolTip": "wwwroot\\html\\inbox.html",
-              "ViewState": "AgIAAOIAAAAAAAAAAAAmwDABAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAmwBQBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:34:39.149Z"
+              "WhenOpened": "2025-05-18T05:34:39.149Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "sent.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\sent.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\sent.html",
               "RelativeToolTip": "wwwroot\\html\\sent.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwLsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:37:44.351Z"
+              "WhenOpened": "2025-05-18T05:37:44.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Starred.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\Starred.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Starred.html",
               "RelativeToolTip": "wwwroot\\html\\Starred.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAIwLkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T06:45:41.33Z"
+              "WhenOpened": "2025-05-18T06:45:41.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Trash.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\Trash.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Trash.html",
               "RelativeToolTip": "wwwroot\\html\\Trash.html",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAswHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAIwLoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T05:47:42.913Z"
+              "WhenOpened": "2025-05-18T05:47:42.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "main.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\main.html",
               "RelativeDocumentMoniker": "wwwroot\\Login-form\\main.html",
@@ -178,19 +187,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Important.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
               "RelativeDocumentMoniker": "wwwroot\\html\\Important.html",
               "ToolTip": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\html\\Important.html",
               "RelativeToolTip": "wwwroot\\html\\Important.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwLoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T07:18:31.071Z"
+              "WhenOpened": "2025-05-18T07:18:31.071Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "index.html",
               "DocumentMoniker": "D:\\UTH\\HK-5\\LapTrinhMang\\BaiTapLon\\fnal\\LAPTRINHMANG\\GmailAppApi\\wwwroot\\Login-form\\index.html",
               "RelativeDocumentMoniker": "wwwroot\\Login-form\\index.html",
@@ -198,12 +208,7 @@
               "RelativeToolTip": "wwwroot\\Login-form\\index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-05-18T07:42:58.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "WhenOpened": "2025-05-18T07:42:58.839Z"
             },
             {
               "$type": "Document",
